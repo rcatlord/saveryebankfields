@@ -1,5 +1,5 @@
 theme = "vienna"
-baseURL = "/"
+baseURL = "https://www.saveryebankfields.org/"
 languageCode = "en-uk"
 title = "Save Ryebank Fields"
 copyright = "&copy; Friends of Ryebank Fields"
