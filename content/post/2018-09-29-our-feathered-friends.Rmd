@@ -1,0 +1,23 @@
+---
+title: Our feathered friends
+author: ''
+date: '2018-09-29'
+slug: our-feathered-friends
+categories: ["Ecology", "Wildlife", "Citizen Science"]
+tags: ["Birds"]
+Description: ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, warning = FALSE, message = FALSE, echo = FALSE)
+```
+
+Local ornithologist [Pete Hines](https://twitter.com/Hines1Peter) has been delighting and educating [Friends of Ryebank Fields](https://www.facebook.com/groups/FriendsofRyebank) with his photos and sightings of birds on our cherished wild space. 
+
+Many locals have been amazed at the diversity of bird species who call the fields home. Sparrowhawks, chiff-chaffs, rooks, meadow pipits, and house martins have all be spotted, reminding us that the fields are already inhabited even without the proposed housing development. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vbt2oJ0YG-M" frameborder="0" allowfullscreen></iframe>
+
+Pete's findings are all logged [here](https://ebird.org/view/checklist/S48753621) on [ebird.org](https://ebird.org/home), a citizen science project run by Cornell University that catures data on species numbers and whereabouts and opens this up to the international birding community.
+
+Keep an eye on the Friends of Ryebank Fields [facebook page](https://www.facebook.com/groups/FriendsofRyebank) for updates from Pete and others of bird sightings, particularly as the seasons change.
