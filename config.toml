@@ -1,5 +1,5 @@
 theme = "vienna"
-baseURL = "https://saveryebankfields.netlify.com"
+baseURL = "/"
 languageCode = "en-uk"
 title = "Save Ryebank Fields"
 copyright = "&copy; Friends of Ryebank Fields"
