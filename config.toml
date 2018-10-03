@@ -16,3 +16,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   title = "Save Ryebank Fields"
   description = "A group determined to protect a fabulous green space from the threat of development"
   image = "https://github.com/rcatlord/saveryebankfields/raw/master/themes/vienna/static/images/apple-touch-icon.png"
+  
