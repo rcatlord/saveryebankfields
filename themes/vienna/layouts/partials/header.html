@@ -39,6 +39,15 @@
   {{ if eq .URL "/" }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
+  {{ if .Params.twitter }}
+       <meta name="twitter:card" content="summary">
+       <meta name="twitter:image" content="https://www.saveryebankfields.org//{{ .Params.twitterImg }}" >
+     {{ else }}
+       <meta name="twitter:card" content="summary">
+       <meta name="twitter:image" content="https://github.com/rcatlord/saveryebankfields/raw/master/themes/vienna/static/images/twitter.png" >
+    {{ end }}
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 </head>
 <body>
     <header class="global-header"  style="background-image:url({{ if isset .Params "image" }}{{ .Params.image }} {{ else }} /images/bg.jpg {{ end }})">
