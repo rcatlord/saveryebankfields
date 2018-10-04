@@ -11,6 +11,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     subtitle = "A group determined to protect a fabulous green space from the threat of development"
     themecolor = "#228B22"
 [twitter]
-  card = "summary"
+  card = "summary_large_image"
   site = "@ryebankfields"
   image = "https://github.com/rcatlord/saveryebankfields/raw/master/themes/vienna/static/images/twitter.png"
