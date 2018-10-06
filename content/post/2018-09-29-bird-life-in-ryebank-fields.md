@@ -1,14 +1,15 @@
 ---
-title: Our feathered friends
+title: Bird life in Ryebank Fields
 author: ''
 date: '2018-09-29'
-slug: our-feathered-friends
+slug: bird-life-in-ryebank-fields
 categories: []
 tags: []
 Description: ''
+Tags: []
 ---
 
-Local ornithologist [Pete Hines](https://twitter.com/Hines1Peter) has been delighting and educating [Friends of Ryebank Fields](https://www.facebook.com/groups/FriendsofRyebank) with his photos and sightings of birds on our cherished wild space. 
+Local ornithologist [Pete Hines](https://www.youtube.com/channel/UCPu_qWesoYJ-lmXYucPo2QQ) has been delighting and educating Friends of Ryebank Fields with his photos and sightings of birds on our cherished wild space. 
 
 Many locals have been amazed at the diversity of bird species who call the fields home. Sparrowhawks, chiff-chaffs, rooks, meadow pipits, and house martins have all be spotted, reminding us that the fields are already inhabited even without the proposed housing development. 
 

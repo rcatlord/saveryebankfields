@@ -15,8 +15,7 @@ The sun shone on residents of all ages, and some extremely handsome dogs, as the
 
 Head to the Friends of Ryebank Fields [Facebook](https://www.facebook.com/groups/FriendsofRyebank) and [Twitter](https://twitter.com/ryebankfields) to stay up to date with how this much loved green space is used by the local community and wildlife.
 
-<div align="center"> <h5>Singing by the 'Chorlton Ladies' at the community picnic</h5> <p><video width="320" height="240" controls>
-  <source src="/post/2018-09-29-eat-drink-and-be-merry_files/community_picnic.mp4" type="video/mp4">
+<div align="center"> <h5>Singing by the <a href="https://twitter.com/chorltonladies" target="_blank">Chorlton Ladies</a> at the community picnic</h5> <p><video width="320" height="240" controls> <source src="/post/2018-09-29-eat-drink-and-be-merry_files/community_picnic.mp4" type="video/mp4">
 </video></p></div>
 
 *Content updated on 2018-10-06*
