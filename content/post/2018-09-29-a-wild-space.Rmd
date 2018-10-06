@@ -15,7 +15,7 @@ knitr::opts_chunk$set(collapse = TRUE, warning = FALSE, message = FALSE, echo = 
 Ryebank Fields is a 4.6 hectare patch of open land in Chorlton, south Manchester. Once empty pasture land, it was dug up by the local brickworks and its clay pits later filled in with rubble.  The land was later gifted by the council to Manchester Metropolitan University as playing fields. The site has been left vacant since 1996 and has re-wilded itself into a mosaic of natural habitats.
 
 *Oak tree in Ryebank Fields*   
-![](/post/2018-09-29-a-wild-space_files/oak_tree.jpg){width=400px}
+![](/post/2018-09-29-a-wild-space_files/oak_tree.jpg){width=300px}
 
 It is home to a wide variety of trees including oaks, goat willows and poplars, birds like the common redstart and spotted flycatcher, and mammals including foxes and badgers.
 
@@ -49,7 +49,7 @@ polygon_attributes <- data.frame(
   colour = c("#FF5252"))
 boundary <- st_sf(polygon_attributes, geometry = polygon_geometry)
 
-map <- leaflet(width = "90%") %>% 
+map <- leaflet(width = "100%") %>% 
   setView(-2.286458, 53.447666, zoom = 17) %>% 
   addTiles(urlTemplate = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
            attribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
