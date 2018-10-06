@@ -13,8 +13,7 @@ As the nights draw in and the memory of summer fades, the Friends of Ryebank Fie
 
 Local magazine [Trafford Community News](http://online.anyflip.com/uzcm/owfq/mobile/index.html) has covered our concerns and the success of [our community picnic](https://www.saveryebankfields.org/post/eat-drink-and-be-merry/) event on 2 September. 
 
-*Piece in [Trafford Community News](https://en-gb.facebook.com/pages/category/Broadcasting---Media-Production-Company/Trafford-Community-News-102938291849/), October 2018*     
-<a href="http://online.anyflip.com/uzcm/owfq/mobile/index.html"><img src="/post/2018-10-06-gathering-momentum_files/trafford_community_news_2018-10.jpg" alt="Trafford Community News article" width="150px" /></a>
+<div align="center"><img src="/post/2018-10-06-gathering-momentum_files/trafford_community_news_2018-10.jpg" width="200px"><p><small>Source: <a href="http://online.anyflip.com/uzcm/owfq/mobile/index.html" target="_blank">Trafford Community News</a></small></p></div>
 
 We were heartened to be featured alongside fellow local green campaign the [Breathe Clean Air Group](https://en-gb.facebook.com/BCAGtrafford/). They are welcoming the news that Peel Energy are now unlikely to build their proposed biomass heat and power plant in nearby Davyhulme. Their campaign offers hope to us and others battling to preserve green and healthy environments in our cities.
 
