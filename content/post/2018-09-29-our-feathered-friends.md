@@ -8,10 +8,6 @@ tags: []
 Description: ''
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE, warning = FALSE, message = FALSE, echo = FALSE)
-```
-
 Local ornithologist [Pete Hines](https://twitter.com/Hines1Peter) has been delighting and educating [Friends of Ryebank Fields](https://www.facebook.com/groups/FriendsofRyebank) with his photos and sightings of birds on our cherished wild space. 
 
 Many locals have been amazed at the diversity of bird species who call the fields home. Sparrowhawks, chiff-chaffs, rooks, meadow pipits, and house martins have all be spotted, reminding us that the fields are already inhabited even without the proposed housing development. 
