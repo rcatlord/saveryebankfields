@@ -75,6 +75,8 @@
           </a>
         {{ end }}
       </div>
+      <!-- Languages -->
+      {{ $url := urls.Parse .Permalink }}
       <!-- The url.Host has only the domain in it -->
       {{ $address := print $url.Scheme "://" $url.Host }}
       <!-- Dirrerence between address and base URL. This could result in "" or "/beta/" or similar. -->
