@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 		url = "pages/links"
 
 [params]
-    twitter = "ryebankfields"
+	  twitter = "ryebankfields"
     facebook = "groups/FriendsofRyebank"
     instagram = "ryebankfields"
     subtitle = "A group determined to protect a fabulous green space from the threat of development"
