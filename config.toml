@@ -1,21 +1,11 @@
-theme = "hugo-theme-hamburg"
-baseurl = "/"
+theme = "vienna"
+baseURL = "/"
 languageCode = "en-uk"
 title = "Save Ryebank Fields"
 copyright = "&copy; Friends of Ryebank Fields"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-[menu]
-	[[menu.main]]
-		name = "Petition"
-		identifier = "Petition"
-		url = "pages/petition"
-	[[menu.main]]
-		name = "Links"
-		identifier = "Links"
-		url = "pages/links"
-
 [params]
-	  twitter = "ryebankfields"
+    twitter = "ryebankfields"
     facebook = "groups/FriendsofRyebank"
     instagram = "ryebankfields"
     subtitle = "A group determined to protect a fabulous green space from the threat of development"
