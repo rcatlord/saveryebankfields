@@ -16,7 +16,7 @@ In accordance with the ‘Aims’ set out in our constitution, we intend to put 
 Please find our <a href="https://docs.google.com/file/d/1MwldKw1ou4gnkkpGo16zzqgIb1kYmEPq/edit?usp=docslist_api&filetype=msword" target="_blank">constitution</a> and a list of our elected committee members below:         
 
 **Chair:** <a href="https://twitter.com/njw3000" target="_blank">Nigel Woodcock</a>          
-**Vice Chair:** <a href="https://twitter.com/JulezRyan" target="_blank">Julie Ryan</a>            
+**Vice Chair:** Julie Ryan                
 **Secretary:** <a href="https://twitter.com/LisaThomason19" target="_blank">Lisa Thomason</a>           
 **Assistant Secretary:** Deirdre Lewis     
 **Treasurer:** <a href="https://uk.linkedin.com/in/jason-johnson-55177b172" target="_blank">Jason Johnson</a>         
