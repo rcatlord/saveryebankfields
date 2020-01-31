@@ -7,7 +7,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     twitter = "ryebankfields"
     facebook = "groups/FriendsofRyebank"
-    instagram = "ryebankfields"
+    instagram = "friends_of_ryebank_fields"
     subtitle = "A group determined to protect a fabulous green space from the threat of development"
     themecolor = "#228B22"
     
