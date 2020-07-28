@@ -1,8 +1,8 @@
 ---
-title: Memories of Ryebank Fields
+title: University of Manchester report on Ryebank Fields
 author: ''
 date: '2020-07-26'
-slug: memories-of-ryebank-fields
+slug: university-of-manchester-report-on-ryebank-fields
 categories: []
 tags: []
 Description: ''
