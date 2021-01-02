@@ -11,7 +11,7 @@ Tags: []
 
 
 
-If you’re planning a healthier more sustainable way of living in 2021, why not try our online [Ryebank Recipes](https://www.saveryebankfields.org/post/2021-01-02-ryebank_recipes.pdf) book for some ideas? The recipes are inspired by plants and flowers that can be found growing wild on Ryebank Fields. Foraging is a family friendly way to try new things whilst getting outdoors and learning more about our natural environment. The book was created over the course of a year and follows the seasons in terms of what plants are available to pick. If you enjoy using it please consider making a <a href="https://gf.me/u/yx223k" target="_blank">donation to our campaign</a>.
+If you’re planning a healthier more sustainable way of living in 2021, why not try our online [Ryebank Recipes](2021-01-02-ryebank-recipes_files/ryebank_recipes.pdf) book for some ideas? The recipes are inspired by plants and flowers that can be found growing wild on Ryebank Fields. Foraging is a family friendly way to try new things whilst getting outdoors and learning more about our natural environment. The book was created over the course of a year and follows the seasons in terms of what plants are available to pick. If you enjoy using it please consider making a <a href="https://gf.me/u/yx223k" target="_blank">donation to our campaign</a>.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="/post/2021-01-02-ryebank-recipes_files/ryebank_recipes_title_page.jpg" alt="Title page of Ryebank Recipes" style="width: 40%; vertical-align: top;">
